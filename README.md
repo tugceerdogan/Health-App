@@ -4,25 +4,25 @@ Health application where we can add hospitals and create appointments. There are
 
 ## Technologies which we used
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) MVVM architecture
+- MVVM architecture
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Dagger Hilt
+- Dagger Hilt
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Retrofit
+- Retrofit
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Coroutine
+- Coroutine
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Firebase
+- Firebase
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Navigation
+- Navigation
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) ViewBinding
+- ViewBinding
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) ViewPager2
+- ViewPager2
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Recyclerview
+- Recyclerview
 
-![#00A651](https://via.placeholder.com/15/00A651/000000?text=+) Lottie
+- Lottie
 
 | Login Register  | User Flow | Admin Flow |
 | ------------- | ------------- | ------------- |
